@@ -8,7 +8,6 @@
 		<?php
 			echo "Hello, World!<br />";
 			echo "I'm in charge!";
-			
 		?>
 	</body>
 </html>
